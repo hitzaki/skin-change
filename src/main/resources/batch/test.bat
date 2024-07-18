@@ -1,0 +1,1 @@
+cmd /k netstat -an | findstr :80
